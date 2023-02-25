@@ -22,7 +22,14 @@ JOBS = [{
   "title": "Data Analyst",
   "Salary": "$140,000",
   "location": "Ahmedabad, India"
-}]
+},
+   {
+  "index": "5",
+  "title": "Medical Physicist",
+  "Salary": "$180,000",
+  "location": "Pennsylvania, USa"
+}
+       ]
 
 
 @app.route("/")
